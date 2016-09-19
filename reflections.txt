@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+* I'm pretty familiar with HTML so the only thing I have learnt is <sup> and <del> tags.
+* Everything in this particular project is pretty straight forward and Easy.
+* Nothing is difficult.
+* First of all I have broken down the whole article in parts and tried to solve one thing at a time.
+  1. I figured out which section goes in the paragraph.
+  2. I have added the anchor tags for links and <img> tags.
+  3. Added the <em> and <strong> tags.
+  4. I have looked for ways to strike through text and superscript them and found <del> and <sup> tags.
+  5. Finally I have added <del> and <sup> tags.
